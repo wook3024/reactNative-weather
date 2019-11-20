@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "reactNativeApp",
-    "slug": "reactNativeApp",
+    "name": "reactNative-weatherApp",
+    "slug": "reactnative-weatherapp",
     "privacy": "public",
     "sdkVersion": "35.0.0",
     "platforms": [
@@ -25,6 +25,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "My first react-native-App",
+    "githubUrl": "https://github.com/wook3024/reactNativeApp"
   }
 }
